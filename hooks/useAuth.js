@@ -18,7 +18,7 @@ const AuthContext = createContext({});
 
 const config = {
   androidClientId:
-    "188774329788-m6qa9tojppgilo9o0vjtgg6vta075qsa.apps.googleusercontent.com",
+    "188774329788-sd61bt2639kjuk6tha00mh555imisj2o.apps.googleusercontent.com",
   iosClientId:
     "188774329788-p0v7k1g6kon0e91ivf3oeaq118m5oo4c.apps.googleusercontent.com",
   scopes: ["profile", "email"],
